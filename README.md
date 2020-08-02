@@ -1,13 +1,13 @@
 # Very-Simple-CMS
 ![demo](images/demo.png "Demo")
-## How to install very-simple-demo
+## How to install very-simple-cms
 
 `git clone https://github.com/`
 
 then
 
 `npm install`
-## How to use very-simple-demo
+## How to use very-simple-cms
 `npm run start`
 ## Customization
 You are free to customize css and posts.json to add new content ;)
