@@ -175,7 +175,8 @@ You can copy the content of /your_website folder and upload it to the web.
 It's completely static!
 
 Feel free to add more data at your_website/data/posts.json,
-or styles at your_website/css/stylesheet.css,
+add bio and social links at your_website/data/config.json
+or play with styles at your_website/css/stylesheet.css,
 and customize it further.
 
     Best of luck...
