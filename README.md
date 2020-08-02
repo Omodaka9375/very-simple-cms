@@ -2,7 +2,7 @@
 ![demo](images/demo.png "Demo")
 ## How to install very-simple-cms
 
-`git clone https://github.com/`
+`git clone https://github.com/Omodaka9375/very-simple-cms.git`
 
 then
 
