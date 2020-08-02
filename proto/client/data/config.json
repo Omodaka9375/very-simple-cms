@@ -1,0 +1,56 @@
+[
+    {
+        "name": "header",
+        "active": "y",
+        "logo": "images/logo.png",
+        "text": "The more you know, the more you are worth. </br><i> - someone somewhere<i>"
+    },
+    {
+        "name": "sidenav",
+        "position": "left",
+        "active": "y"
+    },
+    {
+        "name": "posts",
+        "active": "y",
+        "links": []
+    },
+    {
+        "name": "aboutme",
+        "author": "Your name here",
+        "active": "y",
+        "image": "https://i.pinimg.com/280x280_RS/98/3c/be/983cbeba2d3d442574272b38348177c8.jpg",
+        "bio": "Experienced owner with a demonstrated history of working in the information technology and services industry. Strong engineering professional ...",
+        "interests": [
+            "AI",
+            "Blockchain",
+            "Games",
+            "Inovation"
+        ],
+        "born": "November, 1984",
+        "current": "CTO @YourCompany.com",
+        "position": "bottom"
+    },
+    {
+        "name": "social",
+        "active": "y",
+        "fb": "link",
+        "tw": "link",
+        "g+": "link",
+        "in": "link",
+        "ln": "link",
+        "sl": "link",
+        "rd": "link",
+        "git": "https://www.linkedin.com/"
+    },
+    {
+        "name": "footer",
+        "active": "y",
+        "text": "Page created with very-simple-cms © 2020"
+    },
+    {
+        "name": "title",
+        "active": "yes",
+        "title": "werwerwer"
+    }
+]
